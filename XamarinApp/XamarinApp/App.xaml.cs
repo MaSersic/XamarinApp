@@ -11,6 +11,7 @@ namespace XamarinApp
     {
         public App()
         {
+            Resources.Functions funkcije = new Resources.Functions();
             InitializeComponent();
 
             MainPage = new XamarinApp.MainPage();
@@ -18,7 +19,7 @@ namespace XamarinApp
 
         protected override void OnStart()
         {
-            // Handle when your app starts
+
         }
 
         protected override void OnSleep()
