@@ -14,7 +14,6 @@ namespace XamarinApp.Resources
         
         public Functions()
         {
-            PDFParser(XamarinApp.Resources.);
         }
         public TimeSpan CalculateTravelTime(DateTime start, DateTime end)
         {

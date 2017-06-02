@@ -118,13 +118,4 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="lin_7a_vazi_od_24_04_2017" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\pdf\lin-7a-vazi-od-24-04-2017.pdf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="lin_7_vazi_od_24_04_2017" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\pdf\lin-7-vazi-od-24-04-2017.pdf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="URL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\pdf\url.txt;System.String, System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a;windows-1250</value>
-  </data>
 </root>

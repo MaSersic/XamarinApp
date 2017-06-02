@@ -11,10 +11,9 @@ namespace XamarinApp
     {
         public App()
         {
-            Resources.Functions funkcije = new Resources.Functions();
             InitializeComponent();
 
-            MainPage = new XamarinApp.MainPage();
+            MainPage = new XamarinApp.Page();
         }
 
         protected override void OnStart()

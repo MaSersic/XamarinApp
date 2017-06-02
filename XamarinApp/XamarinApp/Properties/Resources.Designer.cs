@@ -60,36 +60,5 @@ namespace XamarinApp.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
-        internal static byte[] lin_7_vazi_od_24_04_2017 {
-            get {
-                object obj = ResourceManager.GetObject("lin_7_vazi_od_24_04_2017", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
-        internal static byte[] lin_7a_vazi_od_24_04_2017 {
-            get {
-                object obj = ResourceManager.GetObject("lin_7a_vazi_od_24_04_2017", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to https://www.autotrolej.hr/att/wp-content/uploads/2016/05/lin-7a-vazi-od-24-04-2017.pdf
-        ///https://www.autotrolej.hr/att/wp-content/uploads/2016/05/lin-7-vazi-od-24-04-2017.pdf
-        ///.
-        /// </summary>
-        internal static string URL {
-            get {
-                return ResourceManager.GetString("URL", resourceCulture);
-            }
-        }
     }
 }
